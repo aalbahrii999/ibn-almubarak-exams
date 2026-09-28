@@ -1,5 +1,6 @@
 # جدول اختبارات ابن المبارك
 
-جدول اختبارات الفترة لمدرسة ابن المبارك الثانوية. التعديلات تُحفظ في المتصفح، ويمكن تصدير الجدول PDF.
+جدول اختبارات مدرسة ابن المبارك الثانوية. التعديلات تُحفظ في متصفح الزائر، ويمكن تصدير PDF.
 
-الرابط العام: https://aalbahrii999.github.io/ibn-almubarak-exams/
+رابط عام يفتح بدون تسجيل:
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/aalbahrii999/ibn-almubarak-exams/main/index.html
