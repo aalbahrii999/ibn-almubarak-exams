@@ -1,6 +1,6 @@
 # جدول اختبارات ابن المبارك
 
-جدول اختبارات مدرسة ابن المبارك الثانوية. التعديلات تُحفظ في متصفح الزائر، ويمكن تصدير PDF.
+الرابط الذي يفتح الجدول:
+https://k4wy64.csb.app/
 
-رابط عام يفتح بدون تسجيل:
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/aalbahrii999/ibn-almubarak-exams/main/index.html
+أول مرة تظهر صفحة تأكيد بالإنجليزي. اضغط Yes, proceed to preview.
